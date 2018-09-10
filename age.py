@@ -2,8 +2,10 @@
 
 ask=int(input("how old are you?:"))
 
-if ask =(18):
+if ask <(18):
     
-    print("2024 for kanye")
+    print("you are still young LMAO :)")
     
+elif ask <(14):
     
+    print("you are still young lmao")
