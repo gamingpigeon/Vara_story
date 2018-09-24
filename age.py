@@ -2,10 +2,10 @@
 
 ask=int(input("how old are you?:"))
 
-if ask <(18):
+if ask <int(18):
     
-    print("you are still young LMAO :)")
+    print("you can't vote :'(")
     
-elif ask <(14):
+elif ask >= int(18):
     
-    print("you are still young lmao")
+     print("you can vote :)")
