@@ -2,7 +2,7 @@
 
 def greeting():
     print("hola")  
-
+    
 def Askname():
     name=input("what is your name: ")
     return name
