@@ -1,5 +1,3 @@
-#hello this the top of the coding and the first decsion
-
 import time
 from colorama import Fore, Back, Style
 
@@ -80,3 +78,5 @@ if(ask == False):
     dog()
     store()
 exit = input("If you would like to end this program, press enter.")
+
+    
